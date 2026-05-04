@@ -1,0 +1,62 @@
+{
+  "player_001": {
+    "jump_scare_1": 272.87,
+    "tension_start": 356.33,
+    "jump_scare_2": 741.52
+  },
+  "player_002": {
+    "jump_scare_1": 263.68,
+    "tension_start": 335.65,
+    "jump_scare_2": 748.54
+  },
+  "player_003": {
+    "jump_scare_1": 271.34,
+    "tension_start": 377.16,
+    "jump_scare_2": 697.69
+  },
+  "player_004": {
+    "jump_scare_1": 234.05,
+    "tension_start": 352.25,
+    "jump_scare_2": 745.61
+  },
+  "player_005": {
+    "jump_scare_1": 257.26,
+    "tension_start": 379.37,
+    "jump_scare_2": 716.6
+  },
+  "player_006": {
+    "jump_scare_1": 207.27,
+    "tension_start": 363.28,
+    "jump_scare_2": 693.83
+  },
+  "player_007": {
+    "jump_scare_1": 279.32,
+    "tension_start": 367.9,
+    "jump_scare_2": 735.49
+  },
+  "player_008": {
+    "jump_scare_1": 222.54,
+    "tension_start": 388.24,
+    "jump_scare_2": 743.59
+  },
+  "player_009": {
+    "jump_scare_1": 273.41,
+    "tension_start": 341.68,
+    "jump_scare_2": 718.0
+  },
+  "player_010": {
+    "jump_scare_1": 185.26,
+    "tension_start": 339.26,
+    "jump_scare_2": 730.98
+  },
+  "player_011": {
+    "jump_scare_1": 269.37,
+    "tension_start": 388.05,
+    "jump_scare_2": 709.55
+  },
+  "player_012": {
+    "jump_scare_1": 224.46,
+    "tension_start": 358.17,
+    "jump_scare_2": 701.37
+  }
+}
